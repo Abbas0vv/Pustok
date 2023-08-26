@@ -1,4 +1,4 @@
-﻿namespace Pustok.Database.Models;
+﻿namespace Pustok.Core.Entities;
 
 public class Holiday
 {

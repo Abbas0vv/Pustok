@@ -1,4 +1,4 @@
-﻿using Pustok.Database.Models;
+﻿using Pustok.Core.Entities;
 
 namespace Pustok.Database.Repositories;
 

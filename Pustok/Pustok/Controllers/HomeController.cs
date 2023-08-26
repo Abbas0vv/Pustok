@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Pustok.Database.Models;
 using Pustok.Database.Repositories;
 
 namespace Pustok.Controllers

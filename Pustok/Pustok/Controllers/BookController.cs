@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Pustok.Database.Models;
 using Pustok.Database.Repositories;
+using Pustok.Core.Entities;
 
 namespace Pustok.Controllers;
 
